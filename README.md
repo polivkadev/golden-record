@@ -9,7 +9,7 @@ A dark [Omarchy](https://omarchy.org) theme from deep space: blue-black backgrou
 ## Install
 
 ```bash
-omarchy theme install https://github.com/PavlikPolivka/golden-record
+omarchy theme install https://github.com/polivkadev/golden-record
 ```
 
 or Super + Alt + Space → Install → Style → Theme, and paste the link.
